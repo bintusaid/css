@@ -1,20 +1,11 @@
-
-/* the boss wants the text color to be red */ 
+/* the boss wants the text color to be red */
 .thefirst {
-color: red;
- text-align: center;
- font-size: 80px;
+  color: red;
+  text-align: center;
+  font-size: 80px;
 }
 
-*{
-    border: solid 2px blue;
-    margin: 20px
+* {
+  border: solid 2px blue;
+  margin: 20px;
 }
-
-
-
-
-
-
-
-
